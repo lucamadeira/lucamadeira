@@ -7,16 +7,21 @@
 
 <h1 align="center">Ciao 👋, mi chiamo {Luca Madeira Valentini }</h1>
 <h3 align="center">{Front End} Residenza {Lerici}/{Italia}.</h3>
-<p align="center"> {sono uno sviluppatore web junior appassionato di creare soluzioni semplici, funzionali e moderne.
-Ho esperienza con HTML, CSS, JavaScript e React, e sono sempre alla ricerca di nuove tecnologie da imparare.
+<p align="center"> { 👨‍💻 Chi sono
+Sono uno sviluppatore web junior con una grande passione per la tecnologia e la creazione di interfacce digitali semplici, funzionali e moderne.
+Amo trasformare idee in esperienze reali sul web, con un’attenzione particolare all’usabilità e al design responsivo.
+Nel mio percorso ho acquisito competenze pratiche con:
+HTML e CSS per strutturare e stilizzare le pagine web
+JavaScript per renderle dinamiche e interattive
+React per sviluppare applicazioni moderne, scalabili e manutenibili
+Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni progetto è per me un'opportunità per imparare qualcosa di nuovo, sia a livello tecnico che umano.
 
-🌍 Parlo:
-🇧🇷 Portoghese (madrelingua)
+🌍 Lingue:
+🇵🇹 Portoghese (madrelingua)
 🇮🇹 Italiano (fluente)
 🇪🇸 Spagnolo (fluente)
 🇬🇧 Inglese (intermedio)
-
-}</p>
+ }</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=visualizzazioni%20no%20perfil&color=0e75b6&style=flat" alt="lucamadeira" /> </p>
 
