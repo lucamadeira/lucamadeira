@@ -23,7 +23,7 @@ Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni pro
 🇬🇧 Inglese (intermedio)
  }</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=visualizzazioni%20no%20perfil&color=0e75b6&style=flat" alt="lucamadeira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=visualizzazioni%20perfil&color=0e75b6&style=flat" alt="lucamadeira" /> </p>
 
 - 🌱 I miei studi attuali si concentrano su **Front End (React, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
 
