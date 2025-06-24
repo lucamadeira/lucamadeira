@@ -7,7 +7,7 @@
 
 <h1 align="center">Ciao 👋, mi chiamo {Luca Madeira Valentini }</h1>
 <h3 align="center">{Front End} Residenza {Lerici}/{Italia}.</h3>
-<p align="center">{sono uno sviluppatore web junior appassionato di creare soluzioni semplici, funzionali e moderne.
+<p align="center"><p>{sono uno sviluppatore web junior appassionato di creare soluzioni semplici, funzionali e moderne.
 Ho esperienza con HTML, CSS, JavaScript e React, e sono sempre alla ricerca di nuove tecnologie da imparare.
 
 🌍 Parlo:
@@ -29,11 +29,9 @@ Ho esperienza con HTML, CSS, JavaScript e React, e sono sempre alla ricerca di n
 - 📫 Este é meu e-mail para contato: **lucamadeiravalentini@gmail.com**
 
 
-<h3 align="left">Linguagens e Ferramentas que domino:</h3>
+<h3 align="left">Lingue e strumenti che padroneggio:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,react)]()
-
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
+[![mie abilità](https://skillicons.dev/icons?i=js,html,css,react)]()
 
 
 <h3 align="left">contatto con me:</h3>
@@ -41,7 +39,7 @@ Ho esperienza con HTML, CSS, JavaScript e React, e sono sempre alla ricerca di n
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucamdeveloper/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?hl=en-GB#inbox)
 
-> _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
+
 
 <!--
 **lucamadeira/lucamadeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
