@@ -1,8 +1,8 @@
-div align=center>
+<div align=center>
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;" alt="Headline" />
 </div>
 
 <h1 align="center">Ciao 👋, mi chiamo {Luca Madeira Valentini }</h1>
@@ -36,7 +36,7 @@ Ho esperienza con HTML, CSS, JavaScript e React, e sono sempre alla ricerca di n
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">contatto con me:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucamdeveloper/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/?hl=en-GB#inbox)
