@@ -38,7 +38,7 @@ Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni pro
 <h3 align="left">contatto con me:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucamdeveloper/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](lucamadeiravalentini@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucamadeiravalentini@gmail.com)
 
 
 
