@@ -20,7 +20,7 @@ Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni pro
 🇧🇷 Portoghese (madrelingua)
 🇮🇹 Italiano (fluente)
 🇪🇸 Spagnolo (fluente)
-🇬🇧 Inglese (intermedio)
+🇺🇸 Inglese (intermedio)
  }</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=visualizzazioni%20perfil&color=0e75b6&style=flat" alt="lucamadeira" /> </p>
