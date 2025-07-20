@@ -17,7 +17,7 @@ React per sviluppare applicazioni moderne, scalabili e manutenibili
 Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni progetto è per me un'opportunità per imparare qualcosa di nuovo, sia a livello tecnico che umano.
 
 🌍 Lingue:
-🇵🇹 Portoghese (madrelingua)
+🇧🇷 Portoghese (madrelingua)
 🇮🇹 Italiano (fluente)
 🇪🇸 Spagnolo (fluente)
 🇬🇧 Inglese (intermedio)
