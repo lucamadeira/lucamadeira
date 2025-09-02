@@ -31,7 +31,7 @@ Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni pro
 
 <h3 align="left">Lingue e strumenti che padroneggio:</h3>
 
-[![mie abilità](https://skillicons.dev/icons?i=js,html,css,react,node.js,php,sqlite,mysql)]()
+[![mie abilità](https://skillicons.dev/icons?i=js,html,css,react,php,sqlite,mysql,node.js)]()
 
 
 <h3 align="left">contatto con me:</h3>
