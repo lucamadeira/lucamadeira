@@ -24,7 +24,7 @@ Mi considero una persona curiosa, determinata e con voglia di crescere. Ogni pro
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=visualizzazioni%20perfil&color=0e75b6&style=flat" alt="lucamadeira" /> </p>
 
-- 🌱 I miei studi attuali si concentrano su **Front End ( HTML, CSS, React, JavaScript )** e **Back End (node.js, SQLite, mySQL)**.
+- 🌱 I miei studi attuali si concentrano su **Front End ( HTML, CSS, React, JavaScript )** e **Back End (Node.js,Php, SQLite, mySQL)**.
 
 - 📫 Este é meu e-mail para contato: **lucamadeiravalentini@gmail.com**
 
