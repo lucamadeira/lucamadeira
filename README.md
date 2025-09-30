@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web-Developer;" alt="Headline" />
 </div>
 
-<h1 align="center">Ciao 👋, mi chiamo {Luca Madeira Valentini }</h1>
+<h1 align="center">Ciao 👋, mi chiamo {Luca}</h1>
 <p align="center"> { 👨‍💻 Chi sono
 Sono uno sviluppatore web junior con una grande passione per la tecnologia e la creazione di interfacce digitali semplici, funzionali e moderne.
 Amo trasformare idee in esperienze reali sul web, con un’attenzione particolare all’usabilità e al design responsivo.
